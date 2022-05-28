@@ -10,7 +10,7 @@ const FeedbackData = [
     text: 'loremipsum*1',
   },
   {
-    id:3,
+    id: 3,
     rating: 4,
     text: 'loremipsum*4',
   },
